@@ -1,5 +1,7 @@
 package ie.atu.examyr3a;
 
+import org.springframework.stereotype.Service;
+
 import java.util.List;
 
 @Service

@@ -9,6 +9,6 @@ public class FeignController {
     }
     public TodoResponse fetchData()
     {
-        TodoResponse td = todoClient.fetchData()
+        TodoResponse td = todoClient.fetchData();
     }
 }
