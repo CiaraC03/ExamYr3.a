@@ -1,6 +1,7 @@
 package ie.atu.examyr3a;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import lombok.Data;
 
 @Data
 public class TodoResponse {
